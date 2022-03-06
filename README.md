@@ -1,11 +1,8 @@
 # COUT
 Tech Stack: 
-
-Frontend – html, css 
-Basic backend 
+HTML, CSS, JS, BOOTSTRAP
  
-Ideation: 
-
+Ideation:
 TRACK – LGBTQ open innovation 
 
 A website to introduce job opportunities for LGBTQ people. That would include various spheres – education, health, sex-ed, fashion, arts, music and writing (blogs and articles). We aim to connect those seeking opportunities with the ones who can provide these. 
